@@ -1,0 +1,14 @@
+{
+  "name": "vide-plugin-context-css",
+  "version": "0.0.1",
+  "author": "vic.wang",
+  "keywords": [
+    "vide-plugin",
+    "context-css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:debuggap/vide-plugin-context-css.git"
+  },
+  "main": "index.js"
+}
