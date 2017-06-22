@@ -2,9 +2,6 @@
   "name": "vide-plugin-context-css",
   "version": "0.0.2",
   "author": "vic.wang",
-  "keywords": [
-    "context-css"
-  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:debuggap/vide-plugin-context-css.git"
